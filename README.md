@@ -7,7 +7,7 @@ Currently studying B.Tech, Computer Science at Guru Tegh Bahadur Institute of Te
 ![](https://visitor-badge.glitch.me/badge?page_id=SumitKLamba.SumitKLamba)
 
 **Languages and Tools:**  
-<img height="20" src="https://www.kindpng.com/picc/m/355-3557482_flutter-logo-png-transparent-png.png">
+<code><img height="20" src="https://www.kindpng.com/picc/m/355-3557482_flutter-logo-png-transparent-png.png"></code>
 <code><img height="20" src="https://blog.theodo.com/static/dfa7994d6389d439e8a14bc09d03326b/a79d3/1_cZXAov35eTfE545EiuGFqQ.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png"></code>
 <code><img height="20" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfOfptrC48Ggz3JC23XVvfUc6qPqMrkrGGZ5ajLqLDARAP15-8lnl4ETCV_BNdMoW7TjU&usqp=CAU"></code>
