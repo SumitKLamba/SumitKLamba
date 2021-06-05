@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 -->
 
 
-[![Sumit's GitHub stats](https://github-readme-stats.vercel.app/api?username=SumitKLamba&count_private=true&show_icons=true&theme=darkborder_radius=12)
+[![Sumit's GitHub stats](https://github-readme-stats.vercel.app/api?username=SumitKLamba&count_private=true&show_icons=true&theme=dark&border_radius=24)
 ](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SumitKLamba&layout=compact&count_private=true&theme=darkborder_radius=12)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SumitKLamba&layout=compact&count_private=true&theme=dark&border_radius=24)](https://github.com/anuraghazra/github-readme-stats)
