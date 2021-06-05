@@ -6,7 +6,7 @@ Currently studying B.Tech, Computer Science at Guru Tegh Bahadur Institute of Te
 [![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:sumitskl1999@gmail.com)](mailto:sumitskl1999@gmail.com)
 ![](https://visitor-badge.glitch.me/badge?page_id=SumitKLamba.SumitKLamba)
 
-#**Languages and Tools:**  
+###**Languages and Tools:**  
 <code><img height="30" src="https://www.kindpng.com/picc/m/355-3557482_flutter-logo-png-transparent-png.png"></code>
 <code><img height="30" src="https://blog.theodo.com/static/dfa7994d6389d439e8a14bc09d03326b/a79d3/1_cZXAov35eTfE545EiuGFqQ.png"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png"></code>
