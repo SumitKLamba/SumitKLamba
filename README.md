@@ -11,7 +11,9 @@ Currently studying B.Tech, Computer Science at Guru Tegh Bahadur Institute of Te
 <code><img height="20" src="https://blog.theodo.com/static/dfa7994d6389d439e8a14bc09d03326b/a79d3/1_cZXAov35eTfE545EiuGFqQ.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png"></code>
-<code><img height="20" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtwaYo8c_glIc-t9pkpocVcR134yq6Tb2M2Q&usqp=CAU"></code>
+<code><img height="20" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl7y4Ib8EVIIiZQzXgz_SS_XQfv0tplsyKW7eJvMpA4CudtAFkWp4p6rsPSu1im_nT6IY&usqp=CAU"></code>
+<code><img height="20" src="https://logowik.com/content/uploads/images/visual-studio-code7642.jpg"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png"></code>
 
 
 <!--
