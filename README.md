@@ -1,6 +1,6 @@
-### Hi there 👋
+# I'm Sumit Kumar <img src="https://i.pinimg.com/originals/00/4b/17/004b173f6e3d6843df10114e087f30a8.gif" width="40" height="40" />
 
-My name is Sumit Kumar, currently studying B.Tech, Computer Science at Guru Tegh Bahadur Institute of Technology. I usually use flutter for front-end, NestJS for REST API's and React for Admin Panel's to manage API's.
+Currently studying B.Tech, Computer Science at Guru Tegh Bahadur Institute of Technology. I usually use flutter for front-end, NestJS for REST API's and React for Admin Panel's to manage API's.
 
 <!--
 **SumitKLamba/SumitKLamba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
