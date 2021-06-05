@@ -16,7 +16,7 @@ Currently studying B.Tech, Computer Science at Guru Tegh Bahadur Institute of Te
 <code><img height="20" src="https://logowik.com/content/uploads/images/visual-studio-code7642.jpg"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png"></code>
 <code><img height="20" src="https://brandeps.com/logo-download/H/Heroku-logo-vector-01.svg"></code>
-<code><img height="20" src="https://www.jdrf.org/wp-content/uploads/2020/12/AWS-logo-2.jpg"></code>
+<code><img height="20" src="https://media.webteam.puppet.com/uploads/2019/10/Logo-AWS.jpg"></code>
 
 
 <!--
