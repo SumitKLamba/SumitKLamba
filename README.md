@@ -2,7 +2,7 @@
 
 Currently studying B.Tech, Computer Science at Guru Tegh Bahadur Institute of Technology and working at Grevity. I usually use flutter for front-end, NestJS for REST API's and React for Admin Panel's to manage API's.
 
-[![Linkedin Badge](https://img.shields.io/badge/-RaghavDhingra-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/sumitklamba/)](https://www.linkedin.com/in/sumitklamba/)
+[![Linkedin Badge](https://img.shields.io/badge/-SumitKumar-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/sumitklamba/)](https://www.linkedin.com/in/sumitklamba/)
 [![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:sumitskl1999@gmail.com)](mailto:sumitskl1999@gmail.com)
 ![](https://visitor-badge.glitch.me/badge?page_id=SumitKLamba.SumitKLamba)
 
