@@ -1,6 +1,11 @@
 # I'm Sumit Kumar <img src="https://i.pinimg.com/originals/00/4b/17/004b173f6e3d6843df10114e087f30a8.gif" width="40" height="40" />
 
-Currently studying B.Tech, Computer Science at Guru Tegh Bahadur Institute of Technology and working at Grevity. I usually use Flutter for front-end, NestJS for REST API's and React for Admin Panel's to manage API's.
+- Student of Computer Science at Guru Tegh Bahadur Institute of Technology
+- Currently working as Software Developer at Grevity.in
+- Flutter for Mobile Applications
+- NestJS or NodeJS for REST API's
+- React for Admin Panels to Manage API's
+- AWS or Heroku for hosting 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/sumitklamba/)](https://www.linkedin.com/in/sumitklamba/)
 [![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:sumitskl1999@gmail.com)](mailto:sumitskl1999@gmail.com)
