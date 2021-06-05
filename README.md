@@ -6,6 +6,11 @@ Currently studying B.Tech, Computer Science at Guru Tegh Bahadur Institute of Te
 [![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:sumitskl1999@gmail.com)](mailto:sumitskl1999@gmail.com)
 ![](https://visitor-badge.glitch.me/badge?page_id=SumitKLamba.SumitKLamba)
 
+**Languages and Tools:**  
+<code><img height="20" src="https://logowik.com/content/uploads/images/flutter5786.jpg"></code>
+<code><img height="20" src="https://blog.theodo.com/static/dfa7994d6389d439e8a14bc09d03326b/a79d3/1_cZXAov35eTfE545EiuGFqQ.png"></code>
+
+
 <!--
 **SumitKLamba/SumitKLamba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
