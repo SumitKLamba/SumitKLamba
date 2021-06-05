@@ -7,7 +7,7 @@ Currently studying B.Tech, Computer Science at Guru Tegh Bahadur Institute of Te
 ![](https://visitor-badge.glitch.me/badge?page_id=SumitKLamba.SumitKLamba)
 
 **Languages and Tools:**  
-<code><img height="20" src="https://logowik.com/content/uploads/images/flutter5786.jpg"></code>
+<code><img height="20" src="https://flutter.dev/images/catalog-widget-placeholder.png"></code>
 <code><img height="20" src="https://blog.theodo.com/static/dfa7994d6389d439e8a14bc09d03326b/a79d3/1_cZXAov35eTfE545EiuGFqQ.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png"></code>
 <code><img height="20" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfOfptrC48Ggz3JC23XVvfUc6qPqMrkrGGZ5ajLqLDARAP15-8lnl4ETCV_BNdMoW7TjU&usqp=CAU"></code>
@@ -15,8 +15,8 @@ Currently studying B.Tech, Computer Science at Guru Tegh Bahadur Institute of Te
 <code><img height="20" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl7y4Ib8EVIIiZQzXgz_SS_XQfv0tplsyKW7eJvMpA4CudtAFkWp4p6rsPSu1im_nT6IY&usqp=CAU"></code>
 <code><img height="20" src="https://logowik.com/content/uploads/images/visual-studio-code7642.jpg"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png"></code>
-<code><img height="20" src="http://assets.stickpng.com/thumbs/58480873cef1014c0b5e48ea.png"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1200px-Amazon_Web_Services_Logo.svg.png"></code>
+<code><img height="20" src="https://brandeps.com/logo-download/H/Heroku-logo-vector-01.svg"></code>
+<code><img height="20" src="https://www.jdrf.org/wp-content/uploads/2020/12/AWS-logo-2.jpg"></code>
 
 
 <!--
