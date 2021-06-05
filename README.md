@@ -7,7 +7,7 @@ Currently studying B.Tech, Computer Science at Guru Tegh Bahadur Institute of Te
 ![](https://visitor-badge.glitch.me/badge?page_id=SumitKLamba.SumitKLamba)
 
 **Languages and Tools:**  
-<code><img height="20" src="https://logowik.com/content/uploads/images/flutter5786.jpg"></code>
+<code><img height="20" src="https://miro.medium.com/max/700/1*rb3JJRN2YfybijTcxQiiUQ.png"></code>
 <code><img height="20" src="https://blog.theodo.com/static/dfa7994d6389d439e8a14bc09d03326b/a79d3/1_cZXAov35eTfE545EiuGFqQ.png"></code>
 
 
