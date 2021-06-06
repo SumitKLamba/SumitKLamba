@@ -1,4 +1,4 @@
-# I'm Sumit Kumar <img src="https://i.pinimg.com/originals/00/4b/17/004b173f6e3d6843df10114e087f30a8.gif" width="40" height="40" />
+# I'm Sumit Kumar <img src="https://media.tenor.com/images/e494f2327fc7efc5c9695c0e2400bba2/tenor.gif" width="40" height="40" />
 [<img src="https://img.icons8.com/fluent/0.5x/gmail-new.png">](mailto:sumitskl1999@gmail.com)
 [<img src="https://img.icons8.com/fluent/0.5x/linkedin.png">](https://www.linkedin.com/in/sumitklamba/)
 [<img src="https://img.icons8.com/fluent/0.5x/instagram-new.png">](https://www.instagram.com/sumit_skl/)
