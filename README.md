@@ -1,5 +1,5 @@
 # I'm Sumit Kumar <img src="https://i.pinimg.com/originals/00/4b/17/004b173f6e3d6843df10114e087f30a8.gif" width="40" height="40" />
-[<img src="https://img.icons8.com/fluent/2x/linkedin.png">](http://google.com.au/)
+[<img src="https://img.icons8.com/fluent/1x/linkedin.png">](http://google.com.au/)
 [<img src="http://www.google.com.au/images/nav_logo7.png">](http://google.com.au/)
 ![](https://visitor-badge.glitch.me/badge?page_id=SumitKLamba.SumitKLamba)
 
