@@ -9,6 +9,7 @@
 
 - Student of Computer Science at Guru Tegh Bahadur Institute of Technology
 - Currently working as Software Developer at [Grevity](https://grevity.in/)
+- Trying to git gud at Data Structures and Algo's
 - Love playing Video Games
 - Flutter for Mobile Applications
 - NestJS or NodeJS for REST API's
