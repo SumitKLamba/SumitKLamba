@@ -7,8 +7,6 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=SumitKLamba.SumitKLamba)
 
 
-
-
 - Student of Computer Science at Guru Tegh Bahadur Institute of Technology
 - Currently working as Software Developer at [Grevity](https://grevity.in/)
 - Love playing Video Games
