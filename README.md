@@ -1,5 +1,5 @@
 # I'm Sumit Kumar <img src="https://i.pinimg.com/originals/00/4b/17/004b173f6e3d6843df10114e087f30a8.gif" width="40" height="40" />
-[![Linkedin Badge](https://img.icons8.com/plasticine/2x/linkedin.png&link=https://www.linkedin.com/in/sumitklamba/)](https://www.linkedin.com/in/sumitklamba/)
+[![](https://img.icons8.com/plasticine/2x/linkedin.png&link=https://www.linkedin.com/in/sumitklamba/)](https://www.linkedin.com/in/sumitklamba/)
 [![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:sumitskl1999@gmail.com)](mailto:sumitskl1999@gmail.com)
 ![](https://visitor-badge.glitch.me/badge?page_id=SumitKLamba.SumitKLamba)
 
