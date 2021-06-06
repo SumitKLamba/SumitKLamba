@@ -14,7 +14,7 @@
 - Flutter for Mobile Applications
 - NestJS or NodeJS for REST API's
 - React for Admin Panels to Manage API's
-- AWS or Heroku for hosting 
+- AWS, Firebase or Heroku for hosting 
 
 **Languages and Tools:**  
 <code><img height="30" src="https://www.kindpng.com/picc/m/355-3557482_flutter-logo-png-transparent-png.png"></code>
