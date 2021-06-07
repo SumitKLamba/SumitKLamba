@@ -17,7 +17,7 @@
 - AWS, Firebase or Heroku for hosting 
 
 **Languages and Tools:**  
-<code><img height="30" src="https://www.kindpng.com/picc/m/355-3557482_flutter-logo-png-transparent-png.png"></code>
+<code><img height="30" src="https://ih1.redbubble.net/image.683518800.8491/st,small,507x507-pad,600x600,f8f8f8.jpg"></code>
 <code><img height="30" src="https://blog.theodo.com/static/dfa7994d6389d439e8a14bc09d03326b/a79d3/1_cZXAov35eTfE545EiuGFqQ.png"></code>
 <code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png"></code>
 <code><img height="25" src="https://cdn.worldvectorlogo.com/logos/java.svg"></code>
